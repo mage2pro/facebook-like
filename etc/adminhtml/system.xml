@@ -3,34 +3,34 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="urn:magento:module:Df_Config:etc/system_file.xsd"
 >
-    <system>
-        <section id='dfe_facebook'>
-            <group
-                id='like'
-                translate='label'
-                type='text'
-                sortOrder='120'
-                showInDefault='1'
-                showInWebsite='1'
-                showInStore='1'
-            >
-                <label><![CDATA[Like & Share]]></label>
-                <dfExtension>Dfe\FacebookLike\Ext</dfExtension>
-            	<frontend_model>Df\Config\Block\System\Config\Form\Fieldset\Ext</frontend_model>
-                <field
-                    id='product'
-                    translate='label'
-                    type='Df\Framework\Form\Element\Checkbox'
-                    sortOrder='1'
-                    showInDefault='1'
-                    showInWebsite='1'
-                    showInStore='1'
-                >
-                    <label>Enable on Product Pages?</label>
+	<system>
+		<section id='dfe_facebook'>
+			<group
+				id='like'
+				translate='label'
+				type='text'
+				sortOrder='120'
+				showInDefault='1'
+				showInWebsite='1'
+				showInStore='1'
+			>
+				<label><![CDATA[Like & Share]]></label>
+				<dfExtension>Dfe\FacebookLike\Ext</dfExtension>
+				<frontend_model>Df\Config\Block\System\Config\Form\Fieldset\Ext</frontend_model>
+				<field
+					id='product'
+					translate='label'
+					type='Df\Framework\Form\Element\Checkbox'
+					sortOrder='1'
+					showInDefault='1'
+					showInWebsite='1'
+					showInStore='1'
+				>
+					<label>Enable on Product Pages?</label>
 					<backend_model>Df\Config\Backend\Checkbox</backend_model>
-                    <comment><![CDATA[]]></comment>
-                </field>
-            </group>
-        </section>
-    </system>
+					<comment><![CDATA[]]></comment>
+				</field>
+			</group>
+		</section>
+	</system>
 </config>
