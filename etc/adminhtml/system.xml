@@ -4,7 +4,7 @@
 	xsi:noNamespaceSchemaLocation="urn:magento:module:Df_Config:etc/system_file.xsd"
 >
 	<system>
-		<section id='dfe_facebook'>
+		<section id='df_facebook'>
 			<group
 				id='like'
 				translate='label'
