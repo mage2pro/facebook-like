@@ -1,8 +1,8 @@
-The «[**Facebook Like & Share**](https://mage2.pro/c/extensions/facebook-like)» extension for Magento 2 shows Facebook «Like» and «Share» buttons on the frontend product pages.
+The «[**Facebook Like & Share**](https://mage2.pro/c/extensions/facebook-like)» extension for Magento 2 shows the Facebook's «Like» and «Share» buttons on the frontend product pages.
 
 ![](https://mage2.pro/uploads/default/original/1X/3782ec58041a937703bb61bdda5b1d8c028da5e6.png)
 
-### Self-installation 
+## Installation 
 Follow the generic [installation instruction](https://mage2.pro/t/263). 
 
 ## Support
@@ -43,6 +43,7 @@ I provide the [**customization service**](https://mage2.pro/t/2020) for my payme
 - «[**Blackbaud NetCommunity**](https://mage2.pro/c/extensions/blackbaud-netcommunity)» (an  integration with an online fundraising software).  
 - «[**Markdown Editor**](https://mage2.pro/c/extensions/markdown)» (an alternative content editor for the Magento 2 backend).
 - «[**Twitter Timeline**](https://mage2.pro/c/extensions/twitter-timeline)» (shows your latest tweets in your store's frontend sidebar).
+- «[**Facebook Like & Share**](https://mage2.pro/c/extensions/facebook-like)» (shows the Facebook's «Like» and «Share» buttons on the frontend product pages).
 
 ## Need a custom payment extension?
 I provide a [custom payment gateway integration service](https://mage2.pro/t/917).
