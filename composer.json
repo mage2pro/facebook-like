@@ -13,4 +13,14 @@
 	}]
 	,"require": {"mage2pro/core": ">=2.4.20", "mage2pro/facebook": ">=1.0.8"}
 	,"autoload": {"files": ["registration.php"], "psr-4": {"Dfe\\FacebookLike\\": ""}}
+	,"keywords": [
+		"eCommerce"
+		,"Facebook"
+		,"Facebook API"
+		,"Facebook Like"
+		,"Facebook Sare"
+		,"Magento"
+		,"Magento 2"
+		,"Magento extension"
+	]
 }
