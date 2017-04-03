@@ -2,8 +2,14 @@ The Â«[**Facebook Like & Share**](https://mage2.pro/c/extensions/facebook-like)Â
 
 ![](https://mage2.pro/uploads/default/original/1X/3782ec58041a937703bb61bdda5b1d8c028da5e6.png)
 
-## Installation 
-Follow the generic [installation instruction](https://mage2.pro/t/263). 
+## How to install
+```
+composer require mage2pro/facebook-like:*
+bin/magento setup:upgrade
+rm -rf pub/static/* && bin/magento setup:static-content:deploy
+rm -rf var/di var/generation && bin/magento setup:di:compile
+```
+If you have some problems while executing these commands, then check the [detailed instruction](https://mage2.pro/t/263).
 
 ## Support
 - [The extension's **forum** branch](https://mage2.pro/c/extensions/facebook-like).
