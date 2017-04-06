@@ -2,7 +2,14 @@ The Â«[**Facebook Like & Share**](https://mage2.pro/c/extensions/facebook-like)Â
 
 ![](https://mage2.pro/uploads/default/original/1X/3782ec58041a937703bb61bdda5b1d8c028da5e6.png)
 
+## How to buy
+The extension is free, but if you need my installation and support service, you can [buy it](https://mage2.pro/t/115).
+
 ## How to install
+### 1. Free installation service (if you have bought the extension)
+Just order my [free installation service](https://mage2.pro/t/3585).
+
+### 2. Self-installation
 ```
 composer require mage2pro/facebook-like:*
 bin/magento setup:upgrade
