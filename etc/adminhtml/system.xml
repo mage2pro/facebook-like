@@ -15,8 +15,8 @@
 				showInStore='1'
 			>
 				<label><![CDATA[Like & Share]]></label>
-				<dfExtension>Dfe\FacebookLike\Ext</dfExtension>
-				<frontend_model>Df\Config\Block\System\Config\Form\Fieldset\Ext</frontend_model>
+				<dfExtension>Dfe_FacebookLike</dfExtension>
+				<frontend_model>Df\Config\Fieldset</frontend_model>
 				<field
 					id='product'
 					translate='label'
