@@ -8,7 +8,6 @@
 			<group
 				id='like'
 				translate='label'
-				type='text'
 				sortOrder='120'
 				showInDefault='1'
 				showInWebsite='1'
