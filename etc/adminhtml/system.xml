@@ -7,23 +7,19 @@
 		<section id='df_facebook'>
 			<group
 				id='like'
-				translate='label'
+				showInDefault='1' showInStore='1' showInWebsite='1'
 				sortOrder='120'
-				showInDefault='1'
-				showInWebsite='1'
-				showInStore='1'
+				translate='label'
 			>
 				<label><![CDATA[Like & Share]]></label>
 				<dfExtension>Dfe_FacebookLike</dfExtension>
 				<frontend_model>Df\Config\Fieldset</frontend_model>
 				<field
 					id='product'
+					showInDefault='1' showInStore='1' showInWebsite='1'
+					sortOrder='1'
 					translate='label'
 					type='Df\Framework\Form\Element\Checkbox'
-					sortOrder='1'
-					showInDefault='1'
-					showInWebsite='1'
-					showInStore='1'
 				>
 					<label>Enable on Product Pages?</label>
 					<backend_model>Df\Config\Backend\Checkbox</backend_model>
